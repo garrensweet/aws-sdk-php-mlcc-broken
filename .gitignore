@@ -1,0 +1,15 @@
+/vendor
+
+.DS_Store
+.idea
+.vscode
+.npmrc
+.gitmodules
+
+cache.properties
+
+_ide_helper.php
+yarn-error.log
+tests/_output/*
+
+.env

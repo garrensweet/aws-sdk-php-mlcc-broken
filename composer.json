@@ -1,0 +1,13 @@
+{
+    "name": "garren/aws-sdk-php-media-live-create-channel-broken",
+    "require": {
+        "aws/aws-sdk-php": "3.77.0",
+        "vlucas/phpdotenv": "^5.1"
+    },
+    "authors": [
+        {
+            "name": "Garren Sweet",
+            "email": "garren.sweet@gmail.com"
+        }
+    ]
+}
